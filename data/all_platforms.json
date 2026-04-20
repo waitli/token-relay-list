@@ -8,7 +8,7 @@
   {"name": "老张API", "url": "https://api.laozhang.ai", "desc": "国内中转", "type": "relay"},
   {"name": "IcelandAI", "url": "https://icelandai.com", "desc": "国内中转", "type": "relay"},
   {"name": "Aiproxy", "url": "https://aiproxy.io", "desc": "国内中转", "type": "relay"},
-  {"name": "AI-Proxy", "url": "https://ai-proxy.com", "desc": "国内中转", "type": "relay"},
+  {"name": "baibaiAPI", "url": "https://api.sharesai.xyz", "desc": "卖号的自建的中转/48一个月", "type": "relay"},
   {"name": "GPT-API-free", "url": "https://api.chatanywhere.org", "desc": "免费/低价中转", "type": "relay"},
   {"name": "API-BigModel", "url": "https://api.bigmodel.cn", "desc": "国内中转", "type": "relay"},
   {"name": "DeepAI", "url": "https://deepai.org", "desc": "AI API 聚合平台", "type": "relay"},
