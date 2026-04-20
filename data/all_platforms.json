@@ -51,5 +51,5 @@
   {"name": "LiteLLM Proxy", "url": "https://github.com/BerriAI/litellm", "desc": "开源统一代理，支持 100+ 模型", "type": "github"},
   {"name": "API-Ming", "url": "https://github.com/nicepkg/api-ming", "desc": "轻量中转方案", "type": "github"},
   {"name": "GPT-Load", "url": "https://github.com/dreamhartley/gpt-load", "desc": "中转负载均衡", "type": "github"},
-  {"name": "Sub2Api", "url": "https://github.com/loyalpartner/sub2api", "desc": "订阅转 API", "type": "github"}
+  {"name": "Sub2Api", "url": "https://github.com/Wei-Shaw/sub2api", "desc": "订阅转 API", "type": "github"}
 ]
