@@ -1,0 +1,457 @@
+{
+  "last_updated": "2026-04-20 10:14",
+  "total": 50,
+  "accessible": 45,
+  "platforms": [
+    {
+      "name": "AI-Proxy",
+      "url": "https://ai-proxy.com",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.73
+    },
+    {
+      "name": "API-BigModel",
+      "url": "https://api.bigmodel.cn",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 4.16
+    },
+    {
+      "name": "API2D",
+      "url": "https://api2d.com",
+      "desc": "老牌国内中转，按量计费",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.7
+    },
+    {
+      "name": "AiHubMix",
+      "url": "https://aihubmix.com",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.65
+    },
+    {
+      "name": "Aiproxy",
+      "url": "https://aiproxy.io",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.79
+    },
+    {
+      "name": "CloseAI-AI",
+      "url": "https://closeai.asia",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.81
+    },
+    {
+      "name": "DeepAI",
+      "url": "https://deepai.org",
+      "desc": "AI API 聚合平台",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.88
+    },
+    {
+      "name": "GPT-API-free",
+      "url": "https://api.chatanywhere.org",
+      "desc": "免费/低价中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 8.25
+    },
+    {
+      "name": "IcelandAI",
+      "url": "https://icelandai.com",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.75
+    },
+    {
+      "name": "Novita AI",
+      "url": "https://novita.ai",
+      "desc": "多模型推理平台",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.23
+    },
+    {
+      "name": "OhMyGpt",
+      "url": "https://ohmygpt.com",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.62
+    },
+    {
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai",
+      "desc": "国际主流 API 聚合平台",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.95
+    },
+    {
+      "name": "PandaAPI",
+      "url": "https://pandaapi.com",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.63
+    },
+    {
+      "name": "老张API",
+      "url": "https://api.laozhang.ai",
+      "desc": "国内中转",
+      "type": "relay",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.58
+    },
+    {
+      "name": "Anthropic (Claude)",
+      "url": "https://console.anthropic.com",
+      "desc": "Claude 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 5.57
+    },
+    {
+      "name": "Anyscale",
+      "url": "https://anyscale.com",
+      "desc": "Ray 平台推理",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 2.56
+    },
+    {
+      "name": "Cerebras",
+      "url": "https://cloud.cerebras.ai",
+      "desc": "超快推理平台",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.55
+    },
+    {
+      "name": "DeepSeek",
+      "url": "https://platform.deepseek.com",
+      "desc": "DeepSeek 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.08
+    },
+    {
+      "name": "Deepinfra",
+      "url": "https://deepinfra.com",
+      "desc": "低价模型推理",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.5
+    },
+    {
+      "name": "Fireworks AI",
+      "url": "https://fireworks.ai",
+      "desc": "高性能模型推理",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 3.82
+    },
+    {
+      "name": "Google AI (Gemini)",
+      "url": "https://ai.google.dev",
+      "desc": "Gemini 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 2.56
+    },
+    {
+      "name": "Groq",
+      "url": "https://groq.com",
+      "desc": "超快推理平台",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.7
+    },
+    {
+      "name": "HuggingFace Inference",
+      "url": "https://api-inference.huggingface.co",
+      "desc": "HF 模型推理 API",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.64
+    },
+    {
+      "name": "MiniMax",
+      "url": "https://api.minimax.chat",
+      "desc": "MiniMax 大模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 3.53
+    },
+    {
+      "name": "Mistral AI",
+      "url": "https://mistral.ai",
+      "desc": "Mistral 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 6.49
+    },
+    {
+      "name": "Modal",
+      "url": "https://modal.com",
+      "desc": "Serverless GPU 平台",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.9
+    },
+    {
+      "name": "Moonshot (Kimi)",
+      "url": "https://platform.moonshot.cn",
+      "desc": "Kimi 大模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.44
+    },
+    {
+      "name": "Replicate",
+      "url": "https://replicate.com",
+      "desc": "开源模型托管",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.97
+    },
+    {
+      "name": "SambaNova",
+      "url": "https://sambanova.ai",
+      "desc": "高性能推理",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.77
+    },
+    {
+      "name": "SiliconFlow",
+      "url": "https://siliconflow.cn",
+      "desc": "国产推理平台，有免费额度",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 2.59
+    },
+    {
+      "name": "Together AI",
+      "url": "https://api.together.xyz",
+      "desc": "开源模型推理",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 4.01
+    },
+    {
+      "name": "小米大模型",
+      "url": "https://mimo.xiaomi.com",
+      "desc": "MiMo 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.01
+    },
+    {
+      "name": "智谱AI (GLM)",
+      "url": "https://open.bigmodel.cn",
+      "desc": "GLM 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.27
+    },
+    {
+      "name": "火山引擎 (豆包)",
+      "url": "https://www.volcengine.com/product/ark",
+      "desc": "字节豆包大模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.61
+    },
+    {
+      "name": "百川智能",
+      "url": "https://platform.baichuan-ai.com",
+      "desc": "百川大模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 2.45
+    },
+    {
+      "name": "百度千帆 (文心)",
+      "url": "https://qianfan.cloud.baidu.com",
+      "desc": "文心一言系列",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 3.5
+    },
+    {
+      "name": "腾讯混元",
+      "url": "https://cloud.tencent.com/product/hunyuan",
+      "desc": "腾讯混元大模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 8.49
+    },
+    {
+      "name": "讯飞星火",
+      "url": "https://xinghuo.xfyun.cn",
+      "desc": "讯飞星火大模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.88
+    },
+    {
+      "name": "通义千问 (Qwen)",
+      "url": "https://dashscope.aliyun.com",
+      "desc": "阿里 Qwen 系列",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 11.06
+    },
+    {
+      "name": "阶跃星辰 (Step)",
+      "url": "https://platform.stepfun.com",
+      "desc": "Step 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.04
+    },
+    {
+      "name": "零一万物 (Yi)",
+      "url": "https://platform.lingyiwanwu.com",
+      "desc": "Yi 系列模型",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 1.84
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://platform.openai.com",
+      "desc": "GPT 系列模型",
+      "type": "source",
+      "accessible": false,
+      "status_code": 403,
+      "response_time": 5.58
+    },
+    {
+      "name": "xAI (Grok)",
+      "url": "https://api.x.ai",
+      "desc": "Grok 模型",
+      "type": "source",
+      "accessible": false,
+      "status_code": 421,
+      "response_time": 4.48
+    },
+    {
+      "name": "LiteLLM Proxy",
+      "url": "https://github.com/BerriAI/litellm",
+      "desc": "开源统一代理，支持 100+ 模型",
+      "type": "github",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 6.9
+    },
+    {
+      "name": "New API",
+      "url": "https://github.com/Calcium-Ion/new-api",
+      "desc": "One API 增强分支",
+      "type": "github",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 7.54
+    },
+    {
+      "name": "One API",
+      "url": "https://github.com/songquanpeng/one-api",
+      "desc": "开源中转管理面板，最流行的自建方案",
+      "type": "github",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 7.29
+    },
+    {
+      "name": "Veloera",
+      "url": "https://github.com/veloera/veloera",
+      "desc": "中转管理面板",
+      "type": "github",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 7.03
+    },
+    {
+      "name": "API-Ming",
+      "url": "https://github.com/nicepkg/api-ming",
+      "desc": "轻量中转方案",
+      "type": "github",
+      "accessible": false,
+      "status_code": 404,
+      "response_time": 6.54
+    },
+    {
+      "name": "GPT-Load",
+      "url": "https://github.com/dreamhartley/gpt-load",
+      "desc": "中转负载均衡",
+      "type": "github",
+      "accessible": false,
+      "status_code": 404,
+      "response_time": 5.68
+    },
+    {
+      "name": "Sub2Api",
+      "url": "https://github.com/loyalpartner/sub2api",
+      "desc": "订阅转 API",
+      "type": "github",
+      "accessible": false,
+      "status_code": 404,
+      "response_time": 5.57
+    }
+  ]
+}

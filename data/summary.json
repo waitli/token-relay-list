@@ -1,0 +1,72 @@
+[
+  {
+    "id": "openrouter",
+    "name": "OpenRouter",
+    "url": "https://openrouter.ai",
+    "category": "国际平台",
+    "model_count": 342,
+    "accessible": true,
+    "last_updated": "2026-04-20 09:39",
+    "notes": ""
+  },
+  {
+    "id": "api2d",
+    "name": "API2D",
+    "url": "https://api2d.com",
+    "category": "中转平台",
+    "model_count": 0,
+    "accessible": true,
+    "last_updated": "2026-04-20 09:39",
+    "notes": "需要手动更新模型列表"
+  },
+  {
+    "id": "aihubmix",
+    "name": "AiHubMix",
+    "url": "https://aihubmix.com",
+    "category": "中转平台",
+    "model_count": 0,
+    "accessible": true,
+    "last_updated": "2026-04-20 09:39",
+    "notes": "需要手动更新模型列表"
+  },
+  {
+    "id": "ohmygpt",
+    "name": "OhMyGpt",
+    "url": "https://ohmygpt.com",
+    "category": "中转平台",
+    "model_count": 0,
+    "accessible": true,
+    "last_updated": "2026-04-20 09:39",
+    "notes": "需要手动更新模型列表"
+  },
+  {
+    "id": "closeai",
+    "name": "CloseAI",
+    "url": "https://closeai-proxy.com",
+    "category": "中转平台",
+    "model_count": 0,
+    "accessible": false,
+    "last_updated": "2026-04-20 09:39",
+    "notes": "暂时无法访问"
+  },
+  {
+    "id": "pandaapi",
+    "name": "PandaAPI",
+    "url": "https://pandaapi.com",
+    "category": "中转平台",
+    "model_count": 0,
+    "accessible": true,
+    "last_updated": "2026-04-20 09:39",
+    "notes": "需要手动更新模型列表"
+  },
+  {
+    "id": "laozhang",
+    "name": "老张API",
+    "url": "https://api.laozhang.ai",
+    "category": "中转平台",
+    "model_count": 0,
+    "accessible": true,
+    "last_updated": "2026-04-20 09:39",
+    "notes": "需要手动更新模型列表"
+  }
+]
