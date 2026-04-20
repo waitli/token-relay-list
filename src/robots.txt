@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://token.waitli.top/sitemap.xml

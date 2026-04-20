@@ -8,6 +8,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      SITE_URL: https://token.waitli.top
     steps:
       - uses: actions/checkout@v4
 
@@ -25,11 +27,14 @@ jobs:
       - name: Copy data to frontend
         run: cp data/checked.json src/data/
 
+      - name: Build SEO assets
+        run: python scripts/build_seo.py
+
       - name: Commit & Push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/checked.json
+          git add data/checked.json src/sitemap.xml src/robots.txt
           git diff --staged --quiet || git commit -m "auto: update $(date +%Y-%m-%d)"
           git push
 
