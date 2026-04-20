@@ -37,3 +37,11 @@ jobs:
           git add data/checked.json src/data/checked.json src/sitemap.xml src/robots.txt
           git diff --staged --quiet || git commit -m "auto: update $(date +%Y-%m-%d)"
           git push
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: token-relay-list
+          directory: src

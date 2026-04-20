@@ -1,6 +1,6 @@
 # token-relay-list
 
-Token 中转平台导航页，按 `relay`、`source`、`github` 三类展示平台，并定期检查可访问性。仓库推送后，Cloudflare Pages 会自动部署最新内容。
+Token 中转平台导航页，按 `relay`、`source`、`github` 三类展示平台，并定期检查可访问性。GitHub Action 会在更新数据后单独部署到 Cloudflare Pages。
 
 ## 目录说明
 
@@ -67,7 +67,7 @@ python3 scripts/build_seo.py
 5. 复制数据到 `src/data/`。
 6. 运行 `scripts/build_seo.py` 生成 `sitemap.xml` 和 `robots.txt`。
 7. 如果文件有变化，就提交并推送回仓库。
-8. Cloudflare Pages 监听 GitHub 仓库的 push，自动部署 `src/` 目录，不需要 workflow 里再单独调用 Pages 部署动作。
+8. 通过 `cloudflare/pages-action` 单独部署 `src/` 目录。
 
 ### 维护方式
 
@@ -77,7 +77,7 @@ python3 scripts/build_seo.py
 2. 生成最新的 `data/checked.json` 和 `src/data/checked.json`。
 3. 运行 `scripts/build_seo.py` 更新 `sitemap.xml` 和 `robots.txt`。
 4. 提交并 push 到 GitHub。
-5. 让 Cloudflare Pages 自动完成部署。
+5. 让 GitHub Action 触发 Cloudflare Pages 部署。
 
 ### 站点地址
 
