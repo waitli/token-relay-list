@@ -13,6 +13,7 @@
   {"name": "API-BigModel", "url": "https://api.bigmodel.cn", "desc": "国内中转", "type": "relay"},
   {"name": "DeepAI", "url": "https://deepai.org", "desc": "AI API 聚合平台", "type": "relay"},
   {"name": "Novita AI", "url": "https://novita.ai", "desc": "多模型推理平台", "type": "relay"},
+  {"name":"0011 AI","url":"https://0011.ai/","desc":"Claude Code &codex","type": "relay"},
 
   {"name": "DeepSeek", "url": "https://platform.deepseek.com", "desc": "DeepSeek 系列模型", "type": "source"},
   {"name": "智谱AI (GLM)", "url": "https://open.bigmodel.cn", "desc": "GLM 系列模型", "type": "source"},
