@@ -17,6 +17,7 @@
   {"name":"luxee AI","url":"https://luxee.ai","desc":"仅支持ChatGPT codex ","type": "relay"},
   {"name":"aitechflux AI","url":"https://aitechflux.com","desc":"NEW api搭建的中转平台","type": "relay"},
   {"name":"agentRouter","url":"https://agentrouter.org","desc":"公益站","type": "relay"},
+  {"name":"zenMux","url":"https://zenmux.ai/","desc":"全量中转站","type": "relay"},
 
   {"name": "DeepSeek", "url": "https://platform.deepseek.com", "desc": "DeepSeek 系列模型", "type": "source"},
   {"name": "智谱AI (GLM)", "url": "https://open.bigmodel.cn", "desc": "GLM 系列模型", "type": "source"},
