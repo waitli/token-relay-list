@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-27 08:29",
+  "last_updated": "2026-04-27 11:05",
   "total": 55,
-  "accessible": 45,
+  "accessible": 46,
   "platforms": [
     {
       "name": "API-BigModel",
@@ -10,7 +10,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 2.86
+      "response_time": 1.88
     },
     {
       "name": "AiHubMix",
@@ -19,7 +19,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.21
+      "response_time": 0.24
     },
     {
       "name": "CloseAI-AI",
@@ -28,7 +28,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.16
+      "response_time": 0.14
     },
     {
       "name": "DeepAI",
@@ -37,7 +37,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.25
+      "response_time": 0.11
     },
     {
       "name": "GPT-API-free",
@@ -46,7 +46,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.28
+      "response_time": 0.08
     },
     {
       "name": "Novita AI",
@@ -55,7 +55,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.46
+      "response_time": 0.57
     },
     {
       "name": "OhMyGpt",
@@ -64,7 +64,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.42
+      "response_time": 0.37
     },
     {
       "name": "OpenRouter",
@@ -73,7 +73,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.37
+      "response_time": 0.36
     },
     {
       "name": "agentRouter",
@@ -82,7 +82,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.61
+      "response_time": 1.37
     },
     {
       "name": "aitechflux AI",
@@ -91,7 +91,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.71
+      "response_time": 0.54
     },
     {
       "name": "baibaiAPI",
@@ -100,7 +100,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.36
+      "response_time": 0.15
     },
     {
       "name": "luxee AI",
@@ -109,7 +109,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.99
+      "response_time": 0.54
     },
     {
       "name": "zenMux",
@@ -118,7 +118,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 2.08
+      "response_time": 1.89
     },
     {
       "name": "老张API",
@@ -127,7 +127,7 @@
       "type": "relay",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.24
+      "response_time": 0.21
     },
     {
       "name": "0011 AI",
@@ -136,7 +136,7 @@
       "type": "relay",
       "accessible": false,
       "status_code": 403,
-      "response_time": 0.37
+      "response_time": 0.1
     },
     {
       "name": "API2D",
@@ -145,7 +145,7 @@
       "type": "relay",
       "accessible": false,
       "status_code": 403,
-      "response_time": 0.09
+      "response_time": 0.18
     },
     {
       "name": "Aiproxy",
@@ -184,7 +184,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.49
+      "response_time": 0.32
     },
     {
       "name": "Anyscale",
@@ -193,7 +193,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.29
+      "response_time": 0.47
     },
     {
       "name": "Cerebras",
@@ -202,7 +202,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.16
+      "response_time": 0.35
     },
     {
       "name": "DeepSeek",
@@ -211,7 +211,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.4
+      "response_time": 0.3
     },
     {
       "name": "Deepinfra",
@@ -220,7 +220,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.18
+      "response_time": 0.1
     },
     {
       "name": "Fireworks AI",
@@ -229,7 +229,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.23
+      "response_time": 0.31
     },
     {
       "name": "Google AI (Gemini)",
@@ -238,7 +238,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.96
+      "response_time": 1.13
     },
     {
       "name": "Groq",
@@ -247,7 +247,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.15
+      "response_time": 0.11
     },
     {
       "name": "HuggingFace Inference",
@@ -256,7 +256,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.24
+      "response_time": 0.18
     },
     {
       "name": "MiniMax",
@@ -265,7 +265,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 3.71
+      "response_time": 3.58
     },
     {
       "name": "Mistral AI",
@@ -274,7 +274,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.45
+      "response_time": 0.57
     },
     {
       "name": "Modal",
@@ -283,7 +283,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.19
+      "response_time": 0.31
     },
     {
       "name": "Moonshot (Kimi)",
@@ -292,7 +292,16 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.5
+      "response_time": 1.21
+    },
+    {
+      "name": "Replicate",
+      "url": "https://replicate.com",
+      "desc": "开源模型托管",
+      "type": "source",
+      "accessible": true,
+      "status_code": 200,
+      "response_time": 0.59
     },
     {
       "name": "SambaNova",
@@ -301,7 +310,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.08
+      "response_time": 0.12
     },
     {
       "name": "SiliconFlow",
@@ -310,7 +319,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.69
+      "response_time": 1.65
     },
     {
       "name": "Together AI",
@@ -319,7 +328,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.22
+      "response_time": 0.45
     },
     {
       "name": "小米大模型",
@@ -328,7 +337,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.75
+      "response_time": 0.62
     },
     {
       "name": "智谱AI (GLM)",
@@ -337,7 +346,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.9
+      "response_time": 1.04
     },
     {
       "name": "火山引擎 (豆包)",
@@ -346,7 +355,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.14
+      "response_time": 1.11
     },
     {
       "name": "百川智能",
@@ -355,7 +364,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.57
+      "response_time": 1.44
     },
     {
       "name": "百度千帆 (文心)",
@@ -364,7 +373,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 3.64
+      "response_time": 3.8
     },
     {
       "name": "腾讯混元",
@@ -373,7 +382,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 2.07
+      "response_time": 1.28
     },
     {
       "name": "讯飞星火",
@@ -382,7 +391,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.5
+      "response_time": 1.24
     },
     {
       "name": "通义千问 (Qwen)",
@@ -391,7 +400,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 5.57
+      "response_time": 4.13
     },
     {
       "name": "阶跃星辰 (Step)",
@@ -400,7 +409,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 1.65
+      "response_time": 1.11
     },
     {
       "name": "零一万物 (Yi)",
@@ -409,7 +418,7 @@
       "type": "source",
       "accessible": true,
       "status_code": 200,
-      "response_time": 2.46
+      "response_time": 2.39
     },
     {
       "name": "OpenAI",
@@ -418,16 +427,7 @@
       "type": "source",
       "accessible": false,
       "status_code": 403,
-      "response_time": 0.07
-    },
-    {
-      "name": "Replicate",
-      "url": "https://replicate.com",
-      "desc": "开源模型托管",
-      "type": "source",
-      "accessible": false,
-      "status_code": 502,
-      "response_time": 0.13
+      "response_time": 0.06
     },
     {
       "name": "xAI (Grok)",
@@ -436,7 +436,7 @@
       "type": "source",
       "accessible": false,
       "status_code": 421,
-      "response_time": 0.06
+      "response_time": 0.12
     },
     {
       "name": "LiteLLM Proxy",
@@ -445,7 +445,7 @@
       "type": "github",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.54
+      "response_time": 0.67
     },
     {
       "name": "New API",
@@ -454,7 +454,7 @@
       "type": "github",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.62
+      "response_time": 0.74
     },
     {
       "name": "One API",
@@ -463,7 +463,7 @@
       "type": "github",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.66
+      "response_time": 0.79
     },
     {
       "name": "Sub2Api",
@@ -472,7 +472,7 @@
       "type": "github",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.53
+      "response_time": 0.58
     },
     {
       "name": "Veloera",
@@ -481,7 +481,7 @@
       "type": "github",
       "accessible": true,
       "status_code": 200,
-      "response_time": 0.71
+      "response_time": 0.66
     },
     {
       "name": "API-Ming",
@@ -490,7 +490,7 @@
       "type": "github",
       "accessible": false,
       "status_code": 404,
-      "response_time": 0.26
+      "response_time": 0.33
     },
     {
       "name": "GPT-Load",
@@ -499,7 +499,7 @@
       "type": "github",
       "accessible": false,
       "status_code": 404,
-      "response_time": 0.27
+      "response_time": 0.3
     }
   ]
 }
