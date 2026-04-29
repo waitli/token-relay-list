@@ -4,7 +4,6 @@
   {"name": "AiHubMix", "url": "https://aihubmix.com", "desc": "国内中转", "type": "relay"},
   {"name": "OhMyGpt", "url": "https://ohmygpt.com", "desc": "国内中转", "type": "relay"},
   {"name": "CloseAI-AI", "url": "https://closeai.asia", "desc": "国内中转", "type": "relay"},
-  {"name": "PandaAPI", "url": "https://pandaapi.com", "desc": "国内中转", "type": "relay"},
   {"name": "老张API", "url": "https://api.laozhang.ai", "desc": "国内中转", "type": "relay"},
   {"name": "IcelandAI", "url": "https://icelandai.com", "desc": "国内中转", "type": "relay"},
   {"name": "baibaiAPI", "url": "https://api.sharesai.xyz", "desc": "卖号的自建的中转/48一个月", "type": "relay"},
